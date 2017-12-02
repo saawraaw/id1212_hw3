@@ -1,0 +1,4 @@
+This is a publicly writable file. 
+Also, the user will receive notifications when someone accesses/make changes to this file. 
+
+Updated by user 2
